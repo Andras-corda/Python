@@ -13,5 +13,3 @@ while r:
         
     except ValueError:
         print(f"Erreur, merci de recommencer")
-    
-
